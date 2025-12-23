@@ -1,2 +1,2 @@
-# Th-Gi-ng-Sinh
+# Letternoel
 Java + SQL Server
